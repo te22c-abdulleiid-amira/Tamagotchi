@@ -1,0 +1,14 @@
+c:\Users\amira.abdulleiid\Documents\prog2\tamogochi\tamagochi\bin\Debug\net7.0\tamagochi.exe
+c:\Users\amira.abdulleiid\Documents\prog2\tamogochi\tamagochi\bin\Debug\net7.0\tamagochi.deps.json
+c:\Users\amira.abdulleiid\Documents\prog2\tamogochi\tamagochi\bin\Debug\net7.0\tamagochi.runtimeconfig.json
+c:\Users\amira.abdulleiid\Documents\prog2\tamogochi\tamagochi\bin\Debug\net7.0\tamagochi.dll
+c:\Users\amira.abdulleiid\Documents\prog2\tamogochi\tamagochi\bin\Debug\net7.0\tamagochi.pdb
+c:\Users\amira.abdulleiid\Documents\prog2\tamogochi\tamagochi\obj\Debug\net7.0\tamagochi.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\amira.abdulleiid\Documents\prog2\tamogochi\tamagochi\obj\Debug\net7.0\tamagochi.AssemblyInfoInputs.cache
+c:\Users\amira.abdulleiid\Documents\prog2\tamogochi\tamagochi\obj\Debug\net7.0\tamagochi.AssemblyInfo.cs
+c:\Users\amira.abdulleiid\Documents\prog2\tamogochi\tamagochi\obj\Debug\net7.0\tamagochi.csproj.CoreCompileInputs.cache
+c:\Users\amira.abdulleiid\Documents\prog2\tamogochi\tamagochi\obj\Debug\net7.0\tamagochi.dll
+c:\Users\amira.abdulleiid\Documents\prog2\tamogochi\tamagochi\obj\Debug\net7.0\refint\tamagochi.dll
+c:\Users\amira.abdulleiid\Documents\prog2\tamogochi\tamagochi\obj\Debug\net7.0\tamagochi.pdb
+c:\Users\amira.abdulleiid\Documents\prog2\tamogochi\tamagochi\obj\Debug\net7.0\tamagochi.genruntimeconfig.cache
+c:\Users\amira.abdulleiid\Documents\prog2\tamogochi\tamagochi\obj\Debug\net7.0\ref\tamagochi.dll
