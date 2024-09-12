@@ -27,6 +27,11 @@
 
         public void PrintStats()
         {
+
+        }
+
+        public bool GetAlive()
+        {
             
         }
     }
