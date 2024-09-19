@@ -12,7 +12,7 @@
             isAlive = true;
         }
 
-        public void ReduceBoredom()
+        private void ReduceBoredom()
         {
         Console.WriteLine($" [{name}] is now less bored!");
         boredom -= 2;
