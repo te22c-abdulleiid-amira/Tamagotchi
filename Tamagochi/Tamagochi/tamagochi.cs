@@ -4,8 +4,15 @@
         private int hunger;
         private int boredom;
         private bool isAlive;
+         private List<string> words = new List<string>() {"hello"};
 
         public string name;
+
+        public tamagochi()
+        {
+            isAlive = true;
+        }
+
 
         private void ReduceBoredom()
         {
@@ -24,7 +31,7 @@
 
         public void Hi()
         {
-
+            
         }
 
         public void Teach(string word)
